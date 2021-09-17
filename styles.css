@@ -1,0 +1,139 @@
+#title{
+    background-color: #222831; 
+    font-family:'Montserrat-bold', sans-serif;
+    padding-bottom: 5%;
+}
+    
+    /* navigation bar */
+
+.navbar-brand{
+    font-family:'Montserrat-bold', sans-serif;
+    font-size: 2rem;
+    /* font-weight: light; */
+}
+nav{
+    padding:0 0 4.5rem;
+}
+.navbar-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family:'Montserrat-regular', sans-serif; 
+    font-size: 1.2rem;
+}
+
+/* Name */
+.name{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.8rem;
+    color: white;
+    width: 100%;
+    height: 50%;
+
+}
+.titlepart{
+    padding-top: 5%;
+}
+.title{
+    color: white;
+    font-family:'Josefin Sans-thin', sans-serif;
+    font-size: larger;
+    padding-top: 5%;
+}
+.container-fluid{
+ padding: 5% 15% 5% 15%;
+}
+.title-image{
+    width: 60%;
+}  
+/* Logo */
+.logo{
+    width: 100px;
+    padding: 0% 0% 3% 3%;
+}
+/* Hello */
+.middle-container-fluid{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  
+}
+.face{
+    border-radius: 50%;
+    width: 300px;
+}
+.para{
+    text-align: center;
+    padding: 2% 30% 2% 30%;
+}
+
+/* Expertise */
+#Expertise{
+    background-color: #30475E;
+    color: white;
+    text-align: center;
+padding: 5% 5% 10% 5%;
+}
+
+.expertise-text{
+    padding: 5% 15% 5% 15%;
+}
+h1{
+    font-weight: bolder;
+}
+/* My top Priority */
+#priority{
+    margin: 4% 15% 5% 15%;
+    text-align: center;
+   
+}
+.prioritybox{
+    text-align: center;
+    padding: 5%;
+}
+.propritytext{
+    margin:5% 5% 5% 5%;  
+}
+.icon{
+    color:#30475E ;
+}
+.icon:hover{
+    color: #222831;
+}
+.text1{
+    padding-top: 5%;
+}
+
+/* Pricing */
+#pricing{
+    text-align: center;
+    padding: 4% 10% 5% 10%;
+    background-color: #D8E3E7;
+ }
+ .price-column{
+     padding: 4% 2% 3% 2%;
+     line-height: 1.5;
+ }
+ .card-body{
+     text-align: left;
+ }
+
+ /* Social-media */
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+.socialmedia{
+    margin:10% 0% 10% 15%;
+}
+
+.footer-icons{
+    padding:0% 2% 5% 2%;
+    /* width: 10%; */
+}
+@media(max-width:502px)
+{
+    .name{
+        font-size:xx-large;
+    }
+}
+ 
